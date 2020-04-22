@@ -7,7 +7,7 @@ $grey: #4F4E4F;
 $pale: #F4F2F3;
 $white: #ffffff;
 $yellow: #F7C745;
-$blue:#bbe7f5;
+$blue:2B3A67;
 $m-breakpoint: 500px;
 $l-breakpoint: 800px;
 
@@ -47,6 +47,7 @@ p{
         display: block;
         margin-right: 0;
         padding: 15px 30px;
+        
     }
 }
 
@@ -87,7 +88,7 @@ p{
         }
         .site-header__menu-btn {
             font-size: 1.7rem;
-            color: $black;
+            color: $white;
             font-weight: 900;
             cursor: pointer;
             display: block;
