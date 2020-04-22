@@ -1,4 +1,4 @@
-# london-coronavirus-response-microsite
+# Camden Council - Camden Renewal
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/be54ba80-d87e-4c7e-b9ab-e6488e8c7d51/deploy-status)](https://app.netlify.com/sites/sad-fermi-1a0978/deploys)
 
@@ -19,7 +19,7 @@ content is in the `_data` and `_posts` folders. remember that .yaml files care d
 
 ## putting it on the web
 
-[![Deploy to netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/wearefuturegov/london-coronavirus-response-microsite)
+[![Deploy to netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/wearefuturegov/camden-renewal)
 
 you can host it for free on any static file host, such as github pages or netlify.
 
