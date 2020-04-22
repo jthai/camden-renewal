@@ -7,7 +7,7 @@ $grey: #4F4E4F;
 $pale: #F4F2F3;
 $white: #ffffff;
 $yellow: #F7C745;
-$blue:2B3A67;
+$blue: #2B3A67;
 $m-breakpoint: 500px;
 $l-breakpoint: 800px;
 
@@ -115,7 +115,7 @@ p{
         font-size: 1.7rem;
         font-weight: 900;
         text-decoration: none;
-        color: $white;
+        font-color: $white;
         &:hover{
             text-decoration: underline;
         }
