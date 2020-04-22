@@ -6,6 +6,10 @@ description: We're building a team from local government, community groups and v
 baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+backend:
+name: github
+repo: jthai/camden-renewal # Path to your GitHub repository
+
 plugins:
   - jekyll-feed
 
